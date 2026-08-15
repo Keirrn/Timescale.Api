@@ -38,7 +38,6 @@ Timecale.Infrastructure
 Timescale.Api
 ```
 ## Репозиторий
-git add README.mdgit add README.md
 Исходный код проекта опубликован на GitHub:
 
 https://github.com/Keirrn/Timescale.Api

@@ -20,13 +20,13 @@ API предоставляет три основных метода:
 - **ASP.NET Core Web API**
 - **Entity Framework Core**
 - **PostgreSQL**
-- **Swagger**
-- **Docker**
+- **Swagger / OpenAPI**
+- **Docker / Docker Compose**
 - **xUnit**
 
 ## Архитектура
 
-Проект построен с использованием подхода Clean Architecture:
+Проект построен с использованием подхода **Clean Architecture**:
 
 ```text
 Timecale.Domain
@@ -36,3 +36,9 @@ Timecale.Application
 Timecale.Infrastructure
     ↓
 Timescale.Api
+```
+## Репозиторий
+git add README.mdgit add README.md
+Исходный код проекта опубликован на GitHub:
+
+https://github.com/Keirrn/Timescale.Api
